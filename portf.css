@@ -1,0 +1,17 @@
+.center{
+    text-align: center;
+}
+header{
+    background-color: aqua;
+    
+}
+section{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    flex-direction: row;
+}
+li{
+    display: inline;
+    padding-right: 1cm;
+}

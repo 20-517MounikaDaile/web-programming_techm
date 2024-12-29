@@ -1,0 +1,23 @@
+.container{
+    
+    background-color: rgb(14, 109, 233);
+    width: 600px;
+    height:600px;
+}
+
+.box{
+    background-color: aqua;
+    position:absolute;
+
+}
+.rel{
+    background-color: aquamarine;
+    position: relative;
+    top: 100px;
+    left:80px;
+}
+.fix{
+    background-color: blanchedalmond;
+    position:fixed;
+
+}
